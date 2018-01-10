@@ -1,0 +1,8 @@
+venv
+log.html
+output.xml
+report.html
+libspecs
+red.xml
+*screenshot*
+.project
